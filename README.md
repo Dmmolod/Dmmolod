@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 </p>
   <h1 algin="center"></a>
 <h1 align="center">My GitHub Stats</a> 
-  <b></p>
-<a href="http://www.github.com/dmmolod"><img src="https://github-readme-stats.vercel.app/api?username=dmmolod&theme=dracula&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs" alt="dmmolod's GitHub stats" /></a>
+
+<a href="http://www.github.com/dmmolod"><img src="https://github-readme-stats.vercel.app/api?username=dmmolod&theme=aura&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs" alt="dmmolod's GitHub stats" /></a>
   
-<a href="http://www.github.com/dmmolod"><img src="http://github-readme-streak-stats.herokuapp.com?user=dmmolod&theme=dracula&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D" /></a>
+<a href="http://www.github.com/dmmolod"><img src="http://github-readme-streak-stats.herokuapp.com?user=dmmolod&theme=aura&hide_border=true&border_radius=30" /></a>
+
+<h1 align="center">My Codewars Stats</a> 
+
+<a href="http://www.github.com/dmmolod"><img src="https://www.codewars.com/users/Dmmolod/badges/large" /></a>
