@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">My Codewars Stats</a> 
 
-<a href="http://www.github.com/dmmolod"><img src="https://www.codewars.com/users/Dmmolod/badges/large" /></a>
+<a href="https://www.codewars.com/users/Dmmolod"><img src="https://www.codewars.com/users/Dmmolod/badges/large" /></a>
