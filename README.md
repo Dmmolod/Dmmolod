@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, My name is Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35" width="35"/></h1>
-<h3 align="left">I am an ios developer, engaged in the development in 2020, started with c#, kotlin.</h3>
+<h3 align="left">I am an ios developer, I have been enthusiastically engaged since 2020, started with c#, unity, kotlin.</h3>
 <h5>- 🔭 I’m currently freelance on a startup project</b>
 <h5>- 🌱 I’m currently learning swift in depth</b>
 <h5>- 🤔 I’m looking for an interesting job</b>
