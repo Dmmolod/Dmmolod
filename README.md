@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, My name is Dmitriy</a> 
+<h1 align="center">Привет, меня зовут Дмитрий</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35" width="35"/></h1>
-<h4 align="left">I am an ios developer🧑🏼‍💻, I have been enthusiastically engaged since 2020 ✨, started with c#, unity, kotlin.</h3>
+<h4 align="left">Я iOS developer🧑🏼‍💻. Увлеченно занимаюсь разработкй с 2020 ✨, начинал свой путь с c#, unity, kotlin, но Swift понравился больше всего.</h3>
 <h1></h1>
-<h5>- 🔭 I’m currently freelance on a startup project</b>
-<h5>- 🌱 I’m currently learning swift in depth</b>
-<h5>- 🤔 I’m looking for an interesting job</b>
+<h5>Сейчас я:</b>
+<h5>- 🔭 Подрабатываю на стартапном проекте</b>
+<h5>- 🌱 Углубленно изучаю Swift и iOS SDK</b>
+<h5>- 🤔 Нахожусь в поисках постоянной, интересной работы</b>
 
 <!--
 **Dmmolod/Dmmolod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 -------------
 
-<b>Skills</b> 
+<b>Навыки</b> 
 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<b>Socials</b> 
+<b>Соц. сети</b> 
 
 <p align="left">
 <a href="https://www.github.com/dmmolod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
@@ -43,12 +44,12 @@ Here are some ideas to get you started:
 <a href="https://t.me/dmmolod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/telegram.svg" width="32" height="32" /></a> 
 </p>
   <h1 algin="center"></a>
-<h1 align="center">My GitHub Stats</a> 
+<h1 align="center">Моя статистика GitHub</a> 
 
 <a href="http://www.github.com/dmmolod"><img src="https://github-readme-stats.vercel.app/api?username=dmmolod&theme=aura&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs" alt="dmmolod's GitHub stats" /></a>
   
 <a href="http://www.github.com/dmmolod"><img src="http://github-readme-streak-stats.herokuapp.com?user=dmmolod&theme=aura&hide_border=true&border_radius=30" /></a>
 
-<h1 align="center">My Codewars Stats</a> 
+<h1 align="center">Мой Codewars</a> 
 
 <a href="https://www.codewars.com/users/Dmmolod"><img src="https://www.codewars.com/users/Dmmolod/badges/large" /></a>
