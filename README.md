@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 <b>Соц. сети</b> 
 
 <p align="left">
-<a href="https://www.github.com/dmmolod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
 <a href="https://www.linkedin.com/in/dmitriy-molodetskiy-a78935236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
-<a href="https://t.me/dmmolod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/telegram.svg" width="32" height="32" /></a> 
+<a href="https://t.me/dmmolot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/telegram.svg" width="32" height="32" /></a> 
 </p>
   <h1 algin="center"></a>
 <h1 align="center">Моя статистика GitHub</a> 
@@ -46,7 +45,3 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/dmmolod"><img src="https://github-readme-stats.vercel.app/api?username=dmmolod&theme=aura&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs" alt="dmmolod's GitHub stats" /></a>
   
 <a href="http://www.github.com/dmmolod"><img src="http://github-readme-streak-stats.herokuapp.com?user=dmmolod&theme=aura&hide_border=true&border_radius=30" /></a>
-
-<h1 align="center">Мой Codewars</a> 
-
-<a href="https://www.codewars.com/users/Dmmolod"><img src="https://www.codewars.com/users/Dmmolod/badges/large" /></a>
